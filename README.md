@@ -25,6 +25,8 @@
 - 优化 WebGL 包体与内存，结合 Vue 条件渲染与 iframe 按需销毁，解决 Three.js 与 Unity 同时初始化时的主线程抢占问题。
 - 配合后端 RAG 语义检索，实现学生语音提问 → 知识库检索 → 3D 助手语音播报的完整闭环。
 
+<img width="842" height="480" alt="image" src="https://github.com/user-attachments/assets/f02003b3-7b22-42aa-97d0-02f59b20747f" />
+
 **技术栈**：Unity, WebGL, Three.js, Vue3, JavaScript, 百度 TTS/ASR, RAG
 
 
