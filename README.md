@@ -86,6 +86,28 @@
 - **多模态模型**：微调过 Qwen2.5-VL-7B 用于 OCR 与拓扑幻觉缓解，具备数据构建、训练、评测完整经验。
 - **AI 工具**：熟练使用 Cursor、Codex、Copilot，能高效进行 AI 辅助开发。
 
+## 🎮 游戏开发练习（C++）
+
+以下项目使用 C++ 开发，包含完整源码与 Windows 可执行文件，可直接下载体验。
+
+### 汉诺塔（Hanoi）
+- **技术栈**：C++
+- **功能**：递归求解、手动移动、步数统计、盘子数量选择。
+- **源码**：https://github.com/yang11740/hanoi
+
+
+### 彩球游戏（Magic Ball）
+- **技术栈**：C++
+- **功能**：消除判定、分数统计、关卡递增。
+- **源码**：https://github.com/yang11740/magic-ball
+
+
+### 消灭星星（PopStar）
+- **技术栈**：C++
+- **功能**：相邻同色消除、连锁消除、分数统计。
+- **源码**：https://github.com/yang11740/popstar
+
+
 ## 📂 作品集链接
 
 - **GitHub 主页**：https://github.com/yang11740
