@@ -94,6 +94,7 @@
 - **技术栈**：C++
 - **功能**：递归求解、手动移动、步数统计、盘子数量选择。
 - **源码**：https://github.com/yang11740/hanoi
+<img width="659" height="257" alt="image" src="https://github.com/user-attachments/assets/6a7385c0-5a9d-4737-8f19-895b9f72d828" />
 
 
 ### 彩球游戏（Magic Ball）
