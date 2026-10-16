@@ -79,12 +79,6 @@
 - 负责产品官网前端的设计、开发和优化。
 - 参与实际业务场景中的 Agent 能力落地。
 
-## 📌 与岗位匹配点
-
-- **Unity / WebGL**：在 EduAI 平台中实际开发 Web 内嵌 3D 虚拟助手，熟悉 Unity WebGL 与前端通信、性能优化。
-- **Agent / LLM**：有多智能体协作系统、PC 智能助手、Agent 工具包开发经验，熟悉 RAG、Function Calling、任务规划。
-- **多模态模型**：微调过 Qwen2.5-VL-7B 用于 OCR 与拓扑幻觉缓解，具备数据构建、训练、评测完整经验。
-- **AI 工具**：熟练使用 Cursor、Codex、Copilot，能高效进行 AI 辅助开发。
 
 ## 🎮 游戏开发练习（C++）
 
