@@ -101,6 +101,7 @@
 - **技术栈**：C++
 - **功能**：消除判定、分数统计、关卡递增。
 - **源码**：https://github.com/yang11740/magic-ball
+<img width="423" height="479" alt="image" src="https://github.com/user-attachments/assets/241548b8-0105-4634-8f7c-30b02ce42358" />
 
 
 ### 消灭星星（PopStar）
