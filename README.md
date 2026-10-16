@@ -108,6 +108,13 @@
 - **源码**：https://github.com/yang11740/popstar
 
 
+### 扫雷（Minesweeper）
+
+- **技术栈**：C++
+- **实现功能**：随机布雷、递归展开空白区域、插旗标记、计时、输赢判定、难度选择。
+- **源码**：https://github.com/yang11740/minesweeper
+
+
 ## 📂 作品集链接
 
 - **GitHub 主页**：https://github.com/yang11740
